@@ -38,7 +38,7 @@
           <a class="nav-link" href="why-seven-springs-education.php">
           Why Choose Us?</a>
         </li> 
-      -->
+      --> 
       
       <li class="nav-item mr-3 d-flex flex-column"  tabindex="2">
           <a class="nav-link" href="https://www.seven-springs.co.uk/resource-hub/book-online-tuition/" target="_blank" 
