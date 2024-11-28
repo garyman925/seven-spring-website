@@ -10,7 +10,7 @@
 
       
         
-        <div class="row mb-5">
+        <div class="row mb-5"> 
 
             <div class="col-12">
                 <h3 class="strong text-primary">Our Mission</h3>
